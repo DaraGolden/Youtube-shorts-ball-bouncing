@@ -1,0 +1,4 @@
+.DS_Store
+*.pyc
+assets/
+output_videos/
